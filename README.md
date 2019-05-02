@@ -2,3 +2,5 @@
 
 This repo also contains cheat-sheets from other's repos. I am going to add links to that repos as soon as possible.
 The root folder contains mostly of cheat-sheets that related to ML tools
+
+[Probability](probability) lectures was taken from https://www.coursera.org/learn/probability-theory-basics?
